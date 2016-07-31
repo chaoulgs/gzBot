@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "discord.io",
+      "C:\\users\\samir\\Desktop\\discord bot reborn"
+    ]
+  ],
+  "_from": "discord.io@*",
+  "_id": "discord.io@1.7.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/discord.io",
+  "_nodeVersion": "3.2.0",
+  "_npmUser": {
+    "email": "kyekye321@gmail.com",
+    "name": "izy521"
+  },
+  "_npmVersion": "2.13.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "discord.io",
+    "raw": "discord.io",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord.io/-/discord.io-1.7.1.tgz",
+  "_shasum": "79be4d1b06be91778194f9f2491500e4aa967da7",
+  "_shrinkwrap": null,
+  "_spec": "discord.io",
+  "_where": "C:\\users\\samir\\Desktop\\discord bot reborn",
+  "author": {
+    "name": "izy521"
+  },
+  "bugs": {
+    "url": "https://github.com/izy521/discord.io/issues"
+  },
+  "dependencies": {
+    "jsonfile": "^2.3.1",
+    "node-opus": "^0.1.0",
+    "request": "^2.61.0",
+    "ws": "^0.8.0"
+  },
+  "description": "JavaScript interface for Discord.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "79be4d1b06be91778194f9f2491500e4aa967da7",
+    "tarball": "http://registry.npmjs.org/discord.io/-/discord.io-1.7.1.tgz"
+  },
+  "homepage": "https://github.com/izy521/discord.io#readme",
+  "keywords": [
+    "Bot",
+    "Client",
+    "Discord",
+    "Discordapp",
+    "Library"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "maintainers": [
+    {
+      "name": "izy521",
+      "email": "kyekye321@gmail.com"
+    }
+  ],
+  "name": "discord.io",
+  "optionalDependencies": {
+    "node-opus": "^0.1.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izy521/discord.io.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.7.1"
+}
